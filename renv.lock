@@ -1807,7 +1807,7 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.58",
+      "Version": "0.57",
       "Source": "Repository",
       "Requirements": [
         "grDevices",
